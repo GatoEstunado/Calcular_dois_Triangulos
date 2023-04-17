@@ -1,1 +1,1 @@
-# Calcular_dois_Triangulos
+TRIANGULO_CLASSE
