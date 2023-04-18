@@ -25,7 +25,7 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes-)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes)
 
 🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a)
 
