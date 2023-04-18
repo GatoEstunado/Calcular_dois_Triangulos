@@ -21,7 +21,7 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas-%EF%B8%8F)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas-)
 
 🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-)
 
