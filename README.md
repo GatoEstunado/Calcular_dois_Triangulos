@@ -1,4 +1,4 @@
-# Calcular a área de dois trinângulos
+# Calcular a área de dois triângulos
 
 Versão: 1.0
 
