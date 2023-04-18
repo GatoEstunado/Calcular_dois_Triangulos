@@ -9,7 +9,7 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Funcionalidades](https://github.com/GatoEstunado/Calcular_dois_Triangulos#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos#distribuicao-%EF%B8%8F)
+🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos#distribui%C3%A7%C3%A3o-)
 
 🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#pr%C3%A9-requisitos-%EF%B8%8F)
 
@@ -23,11 +23,11 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas-%EF%B8%8F)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-%EF%B8%8F)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes-%EF%B8%8F)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes-)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a-%EF%B8%8F)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a)
 
 ...
 
