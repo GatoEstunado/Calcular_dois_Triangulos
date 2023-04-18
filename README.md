@@ -15,7 +15,7 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calcular_dois_Triangulos#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#testes-realizados-%EF%B8%8F)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#testes-realizados-)
 
 🔹 [Banco de Dados](https://github.com/GatoEstunado/Calcular_dois_Triangulosbanco-de-dados-%EF%B8%8F)
 
