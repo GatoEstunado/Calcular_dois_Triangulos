@@ -32,7 +32,7 @@ Status do Projeto: ✔️ Concluído
 ...
 
 
-### Descrição do Projeto
+### Descrição do Projeto 🧾✏️
 Código que cálcula a área de dois triângulos e compara para decidir qual é o maior.
 
 
@@ -46,7 +46,7 @@ Código que cálcula a área de dois triângulos e compara para decidir qual é 
 
 
 
-### Distribuição
+### Distribuição 💬
 Não possui versão de testes aberta.
 
 
@@ -59,14 +59,15 @@ Um leitor de linguagens de programação, sendo a utilizada aqui a C++.
 
 
 
-### Como Rodar
+### Como Rodar ▶️
 Basta rodar a aplicação e seguir as instruções por ela dadas.
+
 O projeto serve para calcular a área de triângulos e compará-los.
 
 
 
-### Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+### Testes realizados ❗
+O código foi realizado e testado no Programiz.
 
 
 
@@ -88,7 +89,7 @@ Não usa banco de dados.
 
 
 
-### Resolvendo Problemas
+### Resolvendo Problemas 🔥
 Não houveram demais delongas no desenvolvimento do projeto.
 
 
@@ -96,12 +97,13 @@ Não houveram demais delongas no desenvolvimento do projeto.
 
 ### Recursos de inseridos 🧰
 Todos os recursos forem adicionados.
+
 Não há recursos a serem inseridos no momento.
 
 
 
 ### Desenvolvedores/Contribuintes:
-Dennis Nomura
+Dennis Nomura, Daniel Ohata.
 
 
 
