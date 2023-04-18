@@ -5,7 +5,7 @@ Versão: 1.0
 Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calcular_dois_Triangulos/edit/main/README.md#descri%C3%A7%C3%A3o-do-projeto)
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calcular_dois_Triangulos#descri%C3%A7%C3%A3o-do-projeto)
 
 🔹 [Funcionalidades](https://github.com/GatoEstunado/Calcular_dois_Triangulos/edit/main/README.md#funcionalidades-%EF%B8%8F)
 
