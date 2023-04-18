@@ -5,29 +5,29 @@ Versão: 1.0
 Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calcular_dois_Triangulos#descricao-do-projeto)
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calcular_dois_Triangulos#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
 
 🔹 [Funcionalidades](https://github.com/GatoEstunado/Calcular_dois_Triangulos#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos#distribuicao)
+🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos#distribuicao-%EF%B8%8F)
 
 🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calcular_dois_Triangulos#como-rodar)
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calcular_dois_Triangulos#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#testes-realizados)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#testes-realizados-%EF%B8%8F)
 
 🔹 [Banco de Dados](https://github.com/GatoEstunado/Calcular_dois_Triangulosbanco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado#linguagens-dependencias-e-libs-utilizadas-%EF%B8%8F)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas-%EF%B8%8F)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-%EF%B8%8F)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes-%EF%B8%8F)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a-%EF%B8%8F)
 
 ...
 
