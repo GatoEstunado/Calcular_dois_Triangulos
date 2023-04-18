@@ -9,25 +9,25 @@ Status do Projeto: ✔️ Concluído
 
 🔹 [Funcionalidades](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos#distribui%C3%A7%C3%A3o-)
+🔹 [Distribuição](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#distribui%C3%A7%C3%A3o-)
 
-🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calcular_dois_Triangulos#como-rodar-%EF%B8%8F)
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#testes-realizados-)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#testes-realizados-)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Calcular_dois_Triangulos#banco-de-dados-%EF%B8%8F)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos#resolvendo-problemas-)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#resolvendo-problemas-)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos#recursos-de-inseridos-)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Calcular_dois_Triangulos/tree/TRIANGULO_CLASSE#licen%C3%A7a)
 
 ...
 
